@@ -4,6 +4,8 @@
 [![DAX Studio](https://img.shields.io/badge/DAX%20Studio-3.0%2B-blue.svg)](https://daxstudio.org/)
 [![Bravo](https://img.shields.io/badge/Bravo-1.0%2B-red.svg)](https://bravo.bi/)
 
+![DH1](images/DH1.png)
+
 El objetivo es explorar y analizar una serie de datos del departamento de marketing de DH Marketing Consultants utilizando la herramienta `Power BI` y los lenguajes `DAX` y `M` para la creación de un reporte. El director de marketing necesita generar valor a través de estos datos y pide un análisis. El análisis debe basarse en los diferentes factores que podemos medir del dataset. La empresa requiere los datos organizados por fechas, campañas y productos.
 
 > [!NOTE]
