@@ -43,7 +43,7 @@ Una vez realizada la limpieza y transformación de los datos, se han podido clas
 > 
 > Edad
 > 
-> Educación
+> Educación 
 > 
 > Estado Civil
 >
@@ -138,8 +138,6 @@ Como resultado final hemos obtenido un reporte estructurado en tres hojas. Con l
 - **General**: Cuenta con información general acerca del número de clientes y de quejas, el ingreso medio que tienen los clientes y la cantidad total obtenida y la mensual.
 - **Campañas**: Información más detallada acerca de cada una de las campañas, con una comparación total entre todas ellas, así como una comparación individual de cada una con la campaña actual.
 - **Productos**: Para este hoja tenemos dos visualizaciones totalmente distintas, donde la primera nos permite conocer toda la información acerca del gasto realizado para cada producto y el total de todos ellos. La segunda nos detalla los datos para cada una de las plataformas de venta.
-
-![Logo_DH](images/logo_DH_Marketing.png)
 
 ---
 ## Autor
