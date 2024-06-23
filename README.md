@@ -112,8 +112,6 @@ Una vez realizada la limpieza y transformación de los datos, se han podido clas
 ### Extracción
 Para la extracción de datos se ha hecho una conexión de orígen desde Power BI hasta el archivo `marketing_campaign.csv` desde `Inicio > Obtener datos > Texto o CSV`.
 
-(pendiente de introducir imagen)
-
 ### Transformación
 Después de seleccionar el archivo `marketing_campaign.csv` se ha realizado todo el proceso de `Transformar datos` en el editor de **Power Query** para limpiar y modificar todos los datos que no aportaban ningún valor deseado. Así como la creación de una tabla de hechos y distintas dimensiones para utilizar un esquema de estrella.
 
@@ -136,7 +134,12 @@ Para la creación de las visualizaciones de datos con gráficos de líneas, grá
 
 ---
 ## Conclusión
-Como resultado final hemos obtenido un reporte estructurado en tres hojas. Donder la primera 'General', sacsacscsac. La segunda 'Campañas', sfdjadkakd. La tercera 'Productos', adjadKakdkaD.
+Como resultado final hemos obtenido un reporte estructurado en tres hojas. Con las siguientes características para cada una de ellas, así como la pisibilidad de filtrar los datos por año, por rango de edad y de ingresos entre otros. 
+- **General**: Cuenta con información general acerca del número de clientes y de quejas, el ingreso medio que tienen los clientes y la cantidad total obtenida y la mensual.
+- **Campañas**: Información más detallada acerca de cada una de las campañas, con una comparación total entre todas ellas, así como una comparación individual de cada una con la campaña actual.
+- **Productos**: Para este hoja tenemos dos visualizaciones totalmente distintas, donde la primera nos permite conocer toda la información acerca del gasto realizado para cada producto y el total de todos ellos. La segunda nos detalla los datos para cada una de las plataformas de venta.
+
+![Logo_DH](images/logo_DH_Marketing.png)
 
 ---
 ## Autor
