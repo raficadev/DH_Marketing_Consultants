@@ -1,0 +1,3 @@
+﻿// Generated DAX Query
+EVALUATE 
+TOPN( 500, 'DateTableTemplate_f232a093-b3df-4897-966f-e6067200ff75' )
